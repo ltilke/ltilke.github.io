@@ -21,8 +21,8 @@ author: Lana J. Tilke
 
 navbar-links:
   # About Me: "aboutme"
-  CV: "cv"
-  Publications: "publications"
+  Curriculum Vitae: "cv"
+  # Publications: "publications"
 
 ################
 # --- Logo --- #
