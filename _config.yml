@@ -135,14 +135,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#F5F0F6"  # white
+page-col: "#FFFFFF"  # white
 text-col: "#333333"  # dark gray
 link-col: "#758E4F"  # geen
 hover-col: "#246A73"  # teal
-navbar-col: "#B6A2CD"  # purble
+navbar-col: "#B9B4CF"  # purble
 navbar-text-col: "#333333"  # dark gray
-navbar-border-col: "#B6A2CD"  # purble
-footer-col: "#B6A2CD"  # purble
+navbar-border-col: "#B9B4CF"  # purble
+footer-col: "#B9B4CF"  # purble
 footer-text-col: "#333333"  # dark gray
 footer-link-col: "#758E4F"  # geen
 footer-hover-col: "#246A73"  # teal
