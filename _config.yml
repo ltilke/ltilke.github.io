@@ -141,7 +141,7 @@ link-col: "#758E4F"  # geen
 hover-col: "#246A73"  # teal
 navbar-col: "#B9B4CF"  # purble
 navbar-text-col: "#333333"  # dark gray
-navbar-border-col: "#B9B4CF"  # purble
+navbar-border-col: "#A29BBF"  # slightly darker purble
 footer-col: "#B9B4CF"  # purble
 footer-text-col: "#333333"  # dark gray
 footer-link-col: "#758E4F"  # geen
