@@ -136,15 +136,15 @@ navbar-var-length: false
 
 page-col: "#F5F0F6"  # white
 text-col: "#333333"  # dark gray
-link-col: "#ADC698"  # light green
-hover-col: "#246A73"  # dark teal
-navbar-col: "#888098"  # purble
+link-col: "#758E4F"  # geen
+hover-col: "#246A73"  # teal
+navbar-col: "#B6A2CD"  # purble
 navbar-text-col: "#333333"  # dark gray
-navbar-border-col: "#888098"  # purble
-footer-col: "#888098"  # purble
+navbar-border-col: "#B6A2CD"  # purble
+footer-col: "#B6A2CD"  # purble
 footer-text-col: "#333333"  # dark gray
-footer-link-col: "#ADC698"  # light green
-footer-hover-col: "#246A73"  # dark teal
+footer-link-col: "#758E4F"  # geen
+footer-hover-col: "#246A73"  # teal
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
