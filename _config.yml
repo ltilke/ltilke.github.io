@@ -20,7 +20,7 @@ author: Lana J. Tilke
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   CV: "cv"
   Publications: "publications"
 
